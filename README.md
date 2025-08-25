@@ -15,6 +15,7 @@ GitHub Repository: [https://github.com/bobbycomet/Pwa-manager](https://github.co
 - Performance tuning via `nice` and `ionice` values.
 - Works with multiple Linux distributions (supports `.deb` packaging).
 - Automatic desktop entry creation with proper icons.
+- A tip: Use Edge for applications like Twitch, Firefox for Xcloud, and GeForce Now.
 
 
 ![pwa manager](pwa.png)
