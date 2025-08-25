@@ -17,7 +17,7 @@ GitHub Repository: [https://github.com/bobbycomet/Pwa-manager](https://github.co
 - Automatic desktop entry creation with proper icons.
 
 
-! [pwa manager](pwa.png)
+![pwa manager](pwa.png)
 
 
 ## Installation
